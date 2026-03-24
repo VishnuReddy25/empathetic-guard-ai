@@ -1,0 +1,7 @@
+empathetic_guard.db
+__pycache__/
+*.pyc
+.venv/
+.cache/
+.ollama/
+.vscode/

@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+detoxify
+sqlalchemy
+streamlit
+requests
+python-dotenv
+pydantic

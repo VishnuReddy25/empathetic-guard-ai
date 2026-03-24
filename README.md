@@ -63,7 +63,7 @@ pip install -r requirements.txt
 |---------|---------|
 | Linux   | `curl -fsSL https://ollama.com/install.sh \| sh` |
 | macOS   | Download from [ollama.com](https://ollama.com) |
-| Windows | Download installer from [ollama.com](https://ollama.com) |
+| Windows | Download installer from [ollama.com](https://ollama.com) | or run  : "irm https://ollama.com/install.ps1 | iex" in powershell
 
 **Pull llama3 model (~4 GB):**
 

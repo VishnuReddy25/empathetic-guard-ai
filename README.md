@@ -76,7 +76,7 @@ ollama pull phi3:mini (then change in backend/services/llm_service.py ---> OLLAM
 **Start Ollama (keep this terminal open):**
 
 ```bash
-ollama run llama3
+ollama run llama3 / ollama run phi3:mini
 ```
 
 ---

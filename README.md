@@ -69,6 +69,8 @@ pip install -r requirements.txt
 
 ```bash
 ollama pull llama3
+or
+ollama pull phi3:mini (then change in backend/services/llm_service.py ---> OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "phi3:mini")
 ```
 
 **Start Ollama (keep this terminal open):**
